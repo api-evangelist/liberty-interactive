@@ -1,7 +1,12 @@
 aid: liberty-interactive
-url: https://raw.githubusercontent.com/api-evangelist/liberty-interactive/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/liberty-interactive/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.liberty-interactive.com
+description: >-
+  Liberty Interactive Corporation owned and operated a broad range of video and online
+  commerce companies, including QVC, HSN, and zulily, before being reorganized into
+  Qurate Retail Group.
