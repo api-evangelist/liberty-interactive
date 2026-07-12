@@ -23,12 +23,16 @@ url: https://raw.githubusercontent.com/api-evangelist/liberty-interactive/refs/h
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/liberty-interactive-domain-security.yml
   - type: Website
     url: https://www.qurateretailgroup.com/
   - type: About
     url: https://www.qurateretailgroup.com/about/
   - type: News
     url: https://www.qurateretailgroup.com/news/
+  - url: https://www.qvcgrp.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
