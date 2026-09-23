@@ -1,7 +1,9 @@
 ---
 title: AI company Quid raises $39 mln in round led by Liberty ...
 url: https://www.venturecapitaljournal.com/ai-company-quid-raises-39-mln-in-round-led-by-liberty-interactive/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Liberty Interactive" press release artificial intelligence'
 position: 1
 source: serpapi-google

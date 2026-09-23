@@ -1,7 +1,9 @@
 ---
 title: Liberty Interactive to split QVC, e-commerce businesses
 url: https://www.reuters.com/article/business/liberty-interactive-to-split-qvc-e-commerce-businesses-idUSL4N0I02J2/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Liberty Interactive" press release artificial intelligence'
 position: 4
 source: serpapi-google
